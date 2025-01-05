@@ -1,5 +1,7 @@
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumxtx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 42 Projects
 - [libft](https://github.com/sumxtx/Libft)
 - [ft_printf](https://github.com/sumxtx/ft_printf)
@@ -36,7 +38,5 @@
   - [x64 Asm / Shellcode Cheatsheet](https://github.com/sumxtx/64bitAsmAndShellcode)
   - [8bit CPU](https://github.com/sumxtx/8bitCPULogisimEVO)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumxtx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 TODO: A Beauty FrontPage ;P
