@@ -3,8 +3,6 @@
   <img src="https://skillicons.dev/icons?i=linux,arch,neovim,bash,c,java,html,css,javascript,mysql,python,&theme=dark" alt="Skill Icons">
   <h2>also interested in Jacking on:</h2>
   <img src="https://skillicons.dev/icons?i=cpp,rust,kotlin,typescript,ruby,go,docker,nginx,windows,powershell,cs,solana&theme=dark" alt="Skill Icons">
-  <h2>Master of </h2>
-  <p>none yet~ :P </p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumxtx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
