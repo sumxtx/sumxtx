@@ -32,7 +32,8 @@
 - Web pentesting
   - [Port Swigger Academy Exercises](https://github.com/sumxtx/PortSwiggerAcademy)
 
-- Advanced C
+- Advanced C/C++
+  - [Building a Debugger in C++](https://github.com/sumxtx/yad)
   - [Network Programming in C](https://github.com/sumxtx/NetworkProgrammingC)
   - [Writing a C compiler](https://github.com/sumxtx/mini_C_Compiler)
 
