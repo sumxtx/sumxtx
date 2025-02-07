@@ -1,5 +1,4 @@
   <h3>:godmode: Favorite tools </h3>
-  pursuing mastery on linux and android system programming
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,neovim,linux&theme=dark" alt="Skill Icons"><br>
   
   <h3>:feelsgood: Wishlist:</h3>
