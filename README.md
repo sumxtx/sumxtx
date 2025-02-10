@@ -10,4 +10,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumxtx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repos Structure ## 
-_:chart_with_upwards_trend: [Projects i'm currently dealing with](https://github.com/sumxtx/dotFiles/blob/main/repo_utils/repos_struct.md)_
+## _:chart_with_upwards_trend: [Projects i'm currently dealing with](https://github.com/sumxtx/dotFiles/blob/main/repo_utils/repos_struct.md)_
